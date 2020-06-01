@@ -79,6 +79,8 @@ WSJ0-2mix & 3mix are used by use to remix some 4 speaker and 5 speaker mixtures.
 </audio>
 
 ## WSJ0-5mix Sample (2Female & 3Male)
+### Mixture and separted spectrograms
+![image](https://user-images.githubusercontent.com/66230088/83378945-4a9f2b80-a3a8-11ea-87b0-7fc215bee890.png)
 ### Mixed audio
 <audio id="5mix_0" controls="" preload="none">
 <source id="wav" src="./audio/0_True_mix.wav">
