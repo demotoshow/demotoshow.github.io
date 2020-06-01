@@ -6,6 +6,9 @@ Neural sequence-to-sequence models are well established for applications which c
 <img src="https://user-images.githubusercontent.com/66230088/83373061-30a81d80-a395-11ea-81ab-ef2b6af06f97.png" width = "730" height = "250" alt="" align=center />
 For clarity, we refer our methods as Conditional Chain model, combining both the serial mapping and parallel mapping with the probabilistic chain rule. Simultaneous modeling for these two paradigms not only makes the framework more flexible but also encourages the model to automatically learn the efficient relationship between multiple outputs.
 
+![image](https://user-images.githubusercontent.com/66230088/83373061-30a81d80-a395-11ea-81ab-ef2b6af06f97.png)
+
+
 ## Proposed methods
 <img src="https://user-images.githubusercontent.com/66230088/83373798-9eeddf80-a397-11ea-9806-67c02b281cde.png" width = "730" height = "300" alt="" align=center />
 
