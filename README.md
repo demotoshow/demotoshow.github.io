@@ -17,11 +17,25 @@ our proposed structure provides a solution to the variable and unknown output nu
 ## Speech sepration samples 
 WSJ0-2mix & 3mix are used by use to remix some 4 speaker and 5 speaker mixtures.
 
-#### WSJ0-4mix
+## WSJ0-4mix Sample 1
+### Mixture and separted spectrograms
 ![image](https://user-images.githubusercontent.com/66230088/83374674-5126a680-a39a-11ea-8ede-916fb812aec0.png)
-
-<audio id="audio" controls="" preload="none">
+### Mixed audio
+<audio id="4mix_0" controls="" preload="none">
 <source id="wav" src="./2_True_mix.wav">
+</audio>
+### Separated sources
+<audio id="4mix_0_pre0" controls="" preload="none">
+<source id="wav" src="./2_01c_pre.wav">
+</audio>
+<audio id="4mix_0_pre1" controls="" preload="none">
+<source id="wav" src="./2_01e_pre.wav">
+</audio>
+<audio id="4mix_0_pre2" controls="" preload="none">
+<source id="wav" src="./2_20c_pre.wav">
+</audio>
+<audio id="4mix_0_pre3" controls="" preload="none">
+<source id="wav" src="./2_204_pre.wav">
 </audio>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
