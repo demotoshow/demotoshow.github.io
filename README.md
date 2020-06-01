@@ -17,7 +17,7 @@ our proposed structure provides a solution to the variable and unknown output nu
 # Speech sepration samples 
 WSJ0-2mix & 3mix are used by use to remix some 4 speaker and 5 speaker mixtures.
 
-## WSJ0-4mix Sample 1
+## WSJ0-4mix Sample 1 (2Female & 2Male)
 ### Mixture and separted spectrograms
 ![image](https://user-images.githubusercontent.com/66230088/83374674-5126a680-a39a-11ea-8ede-916fb812aec0.png)
 ### Mixed audio
@@ -38,7 +38,7 @@ WSJ0-2mix & 3mix are used by use to remix some 4 speaker and 5 speaker mixtures.
 <source id="wav" src="./audio/2_204_pre.wav">
 </audio>
 
-## WSJ0-4mix Sample 2
+## WSJ0-4mix Sample 2 (1Female & 3Male)
 ### Mixture and separted spectrograms
 ![image](https://user-images.githubusercontent.com/66230088/83375499-078b8b00-a39d-11ea-8155-021961dd6b1f.png)
 ### Mixed audio
@@ -59,7 +59,7 @@ WSJ0-2mix & 3mix are used by use to remix some 4 speaker and 5 speaker mixtures.
 <source id="wav" src="./audio/1_442_pre.wav">
 </audio>
 
-## WSJ0-4mix Sample 3
+## WSJ0-4mix Sample 3 (3Female & 1Male)
 ### Mixed audio
 <audio id="4mix_2" controls="" preload="none">
 <source id="wav" src="./audio/9_True_mix.wav">
@@ -78,4 +78,25 @@ WSJ0-2mix & 3mix are used by use to remix some 4 speaker and 5 speaker mixtures.
 <source id="wav" src="./audio/9_444_pre.wav">
 </audio>
 
+## WSJ0-5mix Sample (2Female & 3Male)
+### Mixed audio
+<audio id="5mix_0" controls="" preload="none">
+<source id="wav" src="./audio/0_True_mix.wav">
+</audio>
+### Separated sources
+<audio id="5mix_0_pre0" controls="" preload="none">
+<source id="wav" src="./audio/0_22g_pre.wav">
+</audio>
+<audio id="5mix_0_pre1" controls="" preload="none">
+<source id="wav" src="./audio/0_442_pre.wav">
+</audio>
+<audio id="5mix_0_pre2" controls="" preload="none">
+<source id="wav" src="./audio/0_423_pre.wav">
+</audio>
+<audio id="5mix_0_pre3" controls="" preload="none">
+<source id="wav" src="./audio/0_050_pre.wav">
+</audio>
+<audio id="5mix_0_pre4" controls="" preload="none">
+<source id="wav" src="./audio/0_052_pre.wav">
+</audio>
 
