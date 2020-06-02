@@ -14,12 +14,12 @@ For clarity, we refer our methods as Conditional Chain model, combining both the
 
 our proposed structure provides a solution to the variable and unknown output number issues.
 
-# Speech sepration samples 
+# Speech separation samples 
 WSJ0-2mix & 3mix are re-used by us to mix the 4-speaker and 5-speaker mixtures.
 This is to say, we did import any additional data besides the WSJ0-2mix and WSJ0-3mix.
 
 ## WSJ0-4mix Sample 1 (2Female & 2Male)
-### Mixture and separted spectrograms
+### Mixture and separated spectrograms
 ![image](https://user-images.githubusercontent.com/66230088/83374674-5126a680-a39a-11ea-8ede-916fb812aec0.png)
 ### Mixed audio
 <audio id="4mix_0" controls="" preload="none">
@@ -40,7 +40,7 @@ This is to say, we did import any additional data besides the WSJ0-2mix and WSJ0
 </audio>
 
 ## WSJ0-4mix Sample 2 (1Female & 3Male)
-### Mixture and separted spectrograms
+### Mixture and separated spectrograms
 ![image](https://user-images.githubusercontent.com/66230088/83375499-078b8b00-a39d-11ea-8155-021961dd6b1f.png)
 ### Mixed audio
 <audio id="4mix_1" controls="" preload="none">
@@ -80,7 +80,7 @@ This is to say, we did import any additional data besides the WSJ0-2mix and WSJ0
 </audio>
 
 ## WSJ0-5mix Sample (2Female & 3Male)
-### Mixture and separted spectrograms
+### Mixture and separated spectrograms
 ![image](https://user-images.githubusercontent.com/66230088/83378945-4a9f2b80-a3a8-11ea-87b0-7fc215bee890.png)
 ### Mixed audio
 <audio id="5mix_0" controls="" preload="none">
