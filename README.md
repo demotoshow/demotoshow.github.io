@@ -15,7 +15,8 @@ For clarity, we refer our methods as Conditional Chain model, combining both the
 our proposed structure provides a solution to the variable and unknown output number issues.
 
 # Speech sepration samples 
-WSJ0-2mix & 3mix are used by use to remix some 4 speaker and 5 speaker mixtures.
+WSJ0-2mix & 3mix are re-used by us to mix the 4-speaker and 5-speaker mixtures.
+This is to say, we did import any additional data besides the WSJ0-2mix and WSJ0-3mix.
 
 ## WSJ0-4mix Sample 1 (2Female & 2Male)
 ### Mixture and separted spectrograms
