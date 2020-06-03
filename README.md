@@ -11,9 +11,10 @@ For clarity, we refer our methods as Conditional Chain model, combining both the
 Will be released soon...
 
 # Proposed methods
-![image](https://user-images.githubusercontent.com/66230088/83373798-9eeddf80-a397-11ea-9806-67c02b281cde.png)
+![image](https://user-images.githubusercontent.com/66230088/83584046-fd3fcd00-a513-11ea-8dc2-69c166d6efa8.png)
 
-our proposed structure provides a solution to the variable and unknown output number issues.
+We take the raw input sequence as the input for every output sequence. Meanwhile, the output will be generated one by one with the former outputted sequence as a condition. We consider that the multiple outputs from the same input actually have some relevance at the information level. By combining both the cascading and parallel connection, our model learns the mapping from the input to each output sequence, and also the connection between the output sequences. 
+Our proposed structure provides a solution to the variable and unknown output number issues.
 
 # Speech separation samples 
 WSJ0-2mix & 3mix are re-used by us to mix the 4-speaker and 5-speaker mixtures.
