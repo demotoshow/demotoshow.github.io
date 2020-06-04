@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Sequence to Multi-Sequence Learning via Conditional Chain Mapping
+title: Sequence to Multi-Sequence Learning via Conditional Chain Mapping for Mixture Signals
 description: A general method to learn one-to-many sequence transduction problems, which could be widely used in multi-speaker separation, recognition and other tasks.
 
 subtitle: Seq2Mseq
