@@ -8,7 +8,10 @@ For clarity, we refer our methods as Conditional Chain model, combining both the
 
 
 # Source code 
-Will be released soon...
+Please visit there to see:
+https://github.com/demotoshow/demotoshow.github.io/tree/master/codes
+
+The trained-model checkpoint will be released soon...
 
 # Proposed methods
 ![image](https://user-images.githubusercontent.com/66230088/83584046-fd3fcd00-a513-11ea-8dc2-69c166d6efa8.png)
