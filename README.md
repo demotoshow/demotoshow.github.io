@@ -6,12 +6,14 @@ Neural sequence-to-sequence models are well established for applications which c
 ![image](https://user-images.githubusercontent.com/66230088/83373061-30a81d80-a395-11ea-81ab-ef2b6af06f97.png)
 For clarity, we refer our methods as Conditional Chain model, combining both the serial mapping and parallel mapping with the probabilistic chain rule. Simultaneous modeling for these two paradigms not only makes the framework more flexible but also encourages the model to automatically learn the efficient relationship between multiple outputs.
 
+# Supplementary Material (Appendix):
+Please visit there to see:
+https://github.com/demotoshow/demotoshow.github.io/blob/master/Conditional_Model_NeurIPS_2020%20appendix.pdf
+
 
 # Source code 
 Please visit there to see:
 https://github.com/demotoshow/demotoshow.github.io/tree/master/codes
-
-The trained-model checkpoint will be released soon...
 
 # Proposed methods
 ![image](https://user-images.githubusercontent.com/66230088/83584046-fd3fcd00-a513-11ea-8dc2-69c166d6efa8.png)
